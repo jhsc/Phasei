@@ -11,7 +11,12 @@
 			price: 2.34,
 			description: 'klahsdjla alkjdk aslkfjl sdflsdvl.',
 			canPurchase:  true,
-			soldOut: true
+			soldOut: true,
+			images: [
+				{
+					full: 'img/ruby-red.jpg'
+				}
+			]
 		},
 		{
 			name: 'Test',
@@ -22,14 +27,14 @@
 		},
 		{
 			name: 'Test',
-			price: 2.34,
+			price: 5345,
 			description: 'klahsdjla alkjdk aslkfjl sdflsdvl.',
 			canPurchase:  true,
 			soldOut: true
 		},
 		{
 			name: 'Test',
-			price: 2.34,
+			price: 1.20,
 			description: 'klahsdjla alkjdk aslkfjl sdflsdvl.',
 			canPurchase:  false,
 			soldOut: true
